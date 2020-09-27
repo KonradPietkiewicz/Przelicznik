@@ -2,4 +2,4 @@
 
 ## Projekt w TypeScript
 
-https://konradpietkiewicz.github.io/Przelicznik/.
+https://konradpietkiewicz.github.io/Przelicznik/
